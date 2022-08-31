@@ -1,6 +1,6 @@
 <h1>Privacy Policy of Vowe</h1>
 
-<p>Qualrota operates the {url} website, which provides the SERVICE.</p>
+<p>Vowe operates the {url} website, which provides the SERVICE.</p>
 
 <p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the {url} website.</p>
 
