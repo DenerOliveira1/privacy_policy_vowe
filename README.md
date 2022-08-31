@@ -1,4 +1,4 @@
-<h1>Privacy Policy of Qualrota</h1>
+<h1>Privacy Policy of Vowe</h1>
 
 <p>Qualrota operates the {url} website, which provides the SERVICE.</p>
 
