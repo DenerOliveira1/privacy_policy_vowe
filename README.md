@@ -51,7 +51,9 @@ When You access the Service by or through a mobile device, We may collect certai
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
 <strong>Information Collected while Using the Application</strong>
+
 While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
+
 <ul>
   <li>Information from your Device's phone book (contacts list)</li>
   <li>Information regarding your location</li>
