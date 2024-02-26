@@ -51,11 +51,12 @@ When You access the Service by or through a mobile device, We may collect certai
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
 <strong>Information Collected while Using the Application</strong>
-
 While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
 <ul>
- 	<li>Information regarding your location</li>
+  <li>Information from your Device's phone book (contacts list)</li>
+  <li>Information regarding your location</li>
 </ul>
+
 We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
 
 You can enable or disable access to this information at any time, through Your Device settings.
