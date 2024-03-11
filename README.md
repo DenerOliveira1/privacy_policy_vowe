@@ -1,10 +1,14 @@
 <strong>Privacy Policy</strong>
 
-Last updated: January 24, 2023
+Last updated: March 11, 2024
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
 We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/">Free Privacy Policy Generator</a>.
+
+<strong>Short Summary</strong>
+
+The Vowe does not keep your contacts or any other information uploaded on our servers. We delete them periodically once the allowed time window to receive them is expired. We don’t use or share your contacts with any other party for any purpose other than the very transfer to your other phone using the reference number.
 
 <strong>Interpretation and Definitions</strong>
 
